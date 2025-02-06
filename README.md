@@ -9,5 +9,5 @@ I'm an aspiring software engineer & physicist with a passion for creating machin
   Languages: C, Python, Java, C, JavaScript, TypeScript, React
   Tools:  Git, GitHub, Bash, Visual Studio, PyCharm, NumPy, Matplotlib, GDB, NuDoBe Python, Streamlit, RAG AI, PostgreSQL, Docker, JupyterNotebook, Vercel
 
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/nafisanlab/)]
+- 📫 **How to reach me:** [LinkedIn(https://www.linkedin.com/in/nafisanlab/)]
 - ⚡**Blog:** [Medium](https://nawrinblogs.medium.com/)
