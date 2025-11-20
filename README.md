@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Nafisa Nawrin Labonno
-# 🚀 CS, Physics student | 💻 AI Engineering, Software Engineering, Full Stack Web Development
+# 🚀 CS, Physics student | 💻 AI Engineering, Software Engineering, Full Stack Web Development, exploring!
 
 I'm an aspiring software engineer & physicist with a passion for creating machine learning based solutions, web applications, and study neural networks. I have recently started gaining interest in these fields, and have loved working on real-world problems ever since! I hope to keep learning constantly, bridge the gap between experimental physics, applied mathematics, and SWE, AI, and more application based fields, and seek valuable network, opportunities to grow, innovate, and make meaningful contributions to both the open-source and scientific community.
 ---
