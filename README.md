@@ -1,5 +1,4 @@
 # Nafisa Nawrin Labonno
-
 🎓 CS + Physics (Honors), University of Texas at Arlington  
 💡 Interested in AI/ML, Computational Physics & Software Engineering  
 🚀 Building real-world projects + doing research
@@ -14,11 +13,12 @@ I'm an aspiring software engineer & physicist with a passion for creating machin
 **Tech:** Python, Streamlit, ML, Generative AI  
 Built a real-time financial anomaly detection system using Isolation Forest, One-Class SVM, and LOF, including a full-stack interface for dataset upload, model comparison, and AI-generated insights.
 Shoutout to Headstarter AI for the challenge.
+
 🔗 [https://github.com/labus-weg/financial-market-analysis](https://github.com/labus-weg/financial-market-analysis)
 
 ### 🖥️ Custom Shell (C, Linux)
-
 **In Progress – Operating Systems**
+
 Building my own version of the BASH shell in C, supporting:
 - Command line arguments
 - Process handling
@@ -26,7 +26,6 @@ Building my own version of the BASH shell in C, supporting:
 - System-level interactions
 
 ## 🛠 Tech
-
 ![Python](https://img.shields.io/badge/Python-blue)
 ![C](https://img.shields.io/badge/C-blue)
 ![Java](https://img.shields.io/badge/Java-orange)
@@ -36,15 +35,23 @@ Building my own version of the BASH shell in C, supporting:
 ![Linux](https://img.shields.io/badge/Linux-black)
 ![Git](https://img.shields.io/badge/Git-red)
 
-
 ---
 
 ## 📈 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=labus-weg&show_icons=true&hide_title=true)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=labus-weg&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=labus-weg)
+![GitHub Streak](https://streak-stats.demolab.com/?user=labus-weg&theme=radical&hide_border=true)
 
-- 📫 **Feel free to check out my Medium & LinkedIn:**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=labus-weg&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Connect with Me
+
 - ⚡ **Blog:** [Medium](https://nawrinblogs.medium.com/)
-- [LinkedIn](https://www.linkedin.com/in/nafisanlab/)
+- 💼 **LinkedIn:** [linkedin.com/in/nafisanlab](https://www.linkedin.com/in/nafisanlab/)
