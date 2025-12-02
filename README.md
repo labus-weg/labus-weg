@@ -16,6 +16,27 @@ Built a real-time financial anomaly detection system using Isolation Forest, One
 Shoutout to Headstarter AI for the challenge.
 🔗 [https://github.com/labus-weg/financial-market-analysis](https://github.com/labus-weg/financial-market-analysis)
 
+### 🖥️ Custom Shell (C, Linux)
+
+**In Progress – Operating Systems**
+Building my own version of the BASH shell in C, supporting:
+- Command line arguments
+- Process handling
+- File execution
+- System-level interactions
+
+## 🛠 Tech
+
+![Python](https://img.shields.io/badge/Python-blue)
+![C](https://img.shields.io/badge/C-blue)
+![Java](https://img.shields.io/badge/Java-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple)
+![React](https://img.shields.io/badge/React-blue)
+![Linux](https://img.shields.io/badge/Linux-black)
+![Git](https://img.shields.io/badge/Git-red)
+
+
 ---
 
 ## 📈 GitHub Stats
